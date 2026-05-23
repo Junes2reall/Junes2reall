@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Overview
-- 🔭 **Retired FiveM Developer**
+- 🔭 **  FiveM Developer**
 - 🛠️ Coding only when boredom strikes (rarely active)
 - 🌱 Familiar with **Lua, CSS, HTML, Python**
 - 💬 Discord: **vs3c**
