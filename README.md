@@ -3,10 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Retired%20FiveM%20Dev&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
-<p align="center">
-  <i>"doing only what is necessary."</i>
-</p>
-
 ---
 
 ### 🌐 Overview
