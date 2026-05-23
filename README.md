@@ -11,7 +11,7 @@
 - 🌱 Familiar with **Lua, CSS, HTML, Python**
 - 💬 Discord: **vs3c**
 - 📫 Email: **weekday-whisker2u@icloud.com**
-- 🔗 Socials: [guns.lol/vs3c](https://guns.lol/vs3c)
+- 🔗 Socials: [slat.cc](https://slat.cc/junes))
 
 ---
 
