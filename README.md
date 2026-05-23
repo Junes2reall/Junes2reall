@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Junes</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=Retired%20FiveM%20Dev&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=%20FiveM%20Dev&fontSize=50&animation=fadeIn&fontAlignY=35" alt="Header" />
 </p>
 
 ---
 
 ### 🌐 Overview
-- 🔭 **  FiveM Developer**
+- 🔭 **FiveM Developer**
 - 🛠️ Coding only when boredom strikes (rarely active)
 - 🌱 Familiar with **Lua, CSS, HTML, Python**
 - 💬 Discord: **vs3c**
