@@ -9,7 +9,7 @@
 - 🔭 **Retired FiveM Developer**
 - 🛠️ Coding only when boredom strikes (rarely active)
 - 🌱 Familiar with **Lua, CSS, HTML, Python**
-- 💬 Discord: **vs3c**
+- 💬 Discord: **how2getmoney**
 - 📫 Email: **weekday-whisker2u@icloud.com**
 - 🔗 Socials: [slat.cc](https://slat.cc/junes)
 
